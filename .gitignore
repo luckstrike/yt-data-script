@@ -4,3 +4,6 @@
 env/
 venv/
 .ipynb_checkpoints
+bin/
+lib/
+share/
